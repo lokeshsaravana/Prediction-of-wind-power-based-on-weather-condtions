@@ -1,1 +1,1 @@
-# Prediction-of-wind-power-based-on-weather-condtions
+# Prediction-of-wind-power-based-on-weather-conditions
